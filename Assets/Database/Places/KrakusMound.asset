@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6109325218496e0bb91951baf2135de, type: 3}
+  m_Name: KrakusMound
+  m_EditorClassIdentifier: 
+  placeId: 43ea6c7b-7cb7-48b4-bfa4-c2c7b08731b4
+  Category: Attractions
+  Description: "It is located on Lasota Hill, approximately 3 kilometres (2 mi) south
+    of Krak\xF3w's city centre, at an altitude of 271 metres (889 ft), with a base
+    diameter of 60 metres (197 ft) and a height of 16 metres (52 ft).[1] Together
+    with nearby Wanda Mound, it is one of Krak\xF3w's two prehistoric mounds as well
+    as the oldest man-made structure in Krak\xF3w."
+  Heading: 0
+  Latitude: 50.03839892894147
+  Longitude: 19.95841457835727
+  Name: Krakus Mound
+  Year: '-'
+  Image: {fileID: 21300000, guid: b6c88e237b70943f0837e04733137b67, type: 3}
+  PlaceImage: {fileID: 21300000, guid: 09f193c4b021c0064a2006669a6ebcbe, type: 3}
+  ContentPrefab: {fileID: 2417242934921141808, guid: 76d5e0e39550334b090a5e427f0318ed, type: 3}
+  distance: 0

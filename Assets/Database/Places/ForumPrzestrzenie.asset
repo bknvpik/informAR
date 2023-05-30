@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6109325218496e0bb91951baf2135de, type: 3}
+  m_Name: ForumPrzestrzenie
+  m_EditorClassIdentifier: 
+  placeId: 87bc1b98-e849-4b39-8169-7bd99b8c1f94
+  Category: Attractions
+  Description: "\"Forum Przestrzenie\" is a popular cultural and entertainment complex
+    located in the city of Krak\xF3w, Poland. It is a unique venue that combines
+    elements of a bar, club, restaurant, and event space."
+  Heading: 0
+  Latitude: 50.045635613964365
+  Longitude: 19.936129157101607
+  Name: Forum Przestrzenie
+  Year: '-'
+  Image: {fileID: 21300000, guid: b6c88e237b70943f0837e04733137b67, type: 3}
+  PlaceImage: {fileID: 21300000, guid: e5849f049f358a624b34736e613cb737, type: 3}
+  ContentPrefab: {fileID: 2417242934921141808, guid: 76d5e0e39550334b090a5e427f0318ed, type: 3}
+  distance: 0

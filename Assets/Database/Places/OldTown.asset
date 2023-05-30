@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6109325218496e0bb91951baf2135de, type: 3}
+  m_Name: OldTown
+  m_EditorClassIdentifier: 
+  placeId: 3d0bb95d-f580-48d7-8f02-e7cb5a68846b
+  Category: Signposts
+  Description: 
+  Heading: 270
+  Latitude: 50.065137451541865
+  Longitude: 19.94147401972692
+  Name: Old Town
+  Year: 
+  Image: {fileID: 0}
+  PlaceImage: {fileID: 0}
+  ContentPrefab: {fileID: 5601171747634518983, guid: f8cdb30c32a8266579dc99b972f05141, type: 3}
+  distance: 0

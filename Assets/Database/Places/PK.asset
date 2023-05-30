@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6109325218496e0bb91951baf2135de, type: 3}
+  m_Name: PK
+  m_EditorClassIdentifier: 
+  placeId: d28d0297-e472-4d58-9eb0-9ce419bc8237
+  Category: Monuments
+  Description: "Cracow University of Technology (PK) is a public university with
+    76 years of tradition (founded in 1945). Tadeusz Ko\u015Bciuszko has been our
+    patron for over 30 years. "
+  Heading: 0
+  Latitude: 50.07147039145056
+  Longitude: 19.94413230936785
+  Name: Politechnika Krakowska
+  Year: 1945
+  Image: {fileID: 21300000, guid: af8dffbc62dfb2c3594bd06f9e8a5f11, type: 3}
+  PlaceImage: {fileID: 21300000, guid: 6175d1cdb20a033aab1f0c20c6018877, type: 3}
+  ContentPrefab: {fileID: 2640042389243611249, guid: 66b34f5e999055b49922563b3ffc7b00, type: 3}
+  distance: 0

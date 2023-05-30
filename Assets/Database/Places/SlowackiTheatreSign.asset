@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6109325218496e0bb91951baf2135de, type: 3}
+  m_Name: SlowackiTheatreSign
+  m_EditorClassIdentifier: 
+  placeId: 92b019dd-7e32-4832-866b-de14bdf961b1
+  Category: Signposts
+  Description: 
+  Heading: 330
+  Latitude: 50.06516631458722
+  Longitude: 19.941618358688146
+  Name: Slowacki Theatre
+  Year: 
+  Image: {fileID: 0}
+  PlaceImage: {fileID: 0}
+  ContentPrefab: {fileID: 5601171747634518983, guid: f8cdb30c32a8266579dc99b972f05141, type: 3}
+  distance: 0

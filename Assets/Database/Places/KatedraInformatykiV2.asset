@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6109325218496e0bb91951baf2135de, type: 3}
+  m_Name: KatedraInformatykiV2
+  m_EditorClassIdentifier: 
+  placeId: 1791c5fa-76d4-46ba-848e-b06c32ebe860
+  Category: Attractions
+  Description: Katedra Informatyki na kampusie Politechniki Krakowskiej
+  Heading: 0
+  Latitude: 50.070998152695346
+  Longitude: 19.941499849616662
+  Name: Katedra Informatyki Outside
+  Year: 1945
+  Image: {fileID: 21300000, guid: b6c88e237b70943f0837e04733137b67, type: 3}
+  PlaceImage: {fileID: 21300000, guid: d444b1ecf60c8fdcbbfb61881599aa91, type: 3}
+  ContentPrefab: {fileID: 2417242934921141808, guid: 76d5e0e39550334b090a5e427f0318ed, type: 3}
+  distance: 0
